@@ -21,9 +21,10 @@ license                = BSD License
 
 website                = [https://pysb.org/](https://pysb.org/)
 
-== PySB ==
+PySB
+====
 
-PySB..Programming biological models in Python using PySB, Molecular Systems Biology, January 2013, 9(1), p=646, doi=10.1038/msb.2013.1) is a Python-based open-source simulator for cellular systems developed by Carlos Lopez. The primary capability of pySB than makes it stand out from other similar simulators is that it supports rule-based modeling (Rule‐based modeling: a computational approach for studying biomolecular site dynamics in cell signaling systems, WIREs Systems Biology and Medicine,January 2014, 6(1), p13–36, doi=10.1002/wsbm.1245). The software runs on all major platforms, Windows, Mac OS, and Linux. PySB is also discussed at Multi-state modeling of biomolecules.
+PySB.Programming biological models in Python using PySB, Molecular Systems Biology, January 2013, 9(1), p646, doi=10.1038/msb.2013.1) is a Python-based open-source simulator for cellular systems developed by Carlos Lopez. The primary capability of pySB than makes it stand out from other similar simulators is that it supports rule-based modeling (Rule‐based modeling: a computational approach for studying biomolecular site dynamics in cell signaling systems, WIREs Systems Biology and Medicine,January 2014, 6(1), p13–36, doi=10.1002/wsbm.1245). The software runs on all major platforms, Windows, Mac OS, and Linux. PySB is also discussed at Multi-state modeling of biomolecules.
 
  Capabilities
  ============
@@ -37,7 +38,7 @@ Applications of pySB
 
 pySB has been used in a variety of research projects. The following lists a small number of those studies (out of a total of 230 mentions in the scientific literature (as of Oct 2022).
 
-* Studies on substrate selectivity in cyclooxygenase-2 (Competition and allostery govern substrate selectivity of cyclooxygenase-2, Proceedings of the National Academy of Sciences, October 2015, 112(40), p12366–12371, doi=10.1073/pnas.1507307112
+* Studies on substrate selectivity in cyclooxygenase-2 (Competition and allostery govern substrate selectivity of cyclooxygenase-2, Proceedings of the National Academy of Sciences, October 2015, 112(40), p12366–12371, doi=10.1073/pnas.1507307112)
 
 * Information discrimination in T-cell signaling (How the T cell signaling network processes information to discriminate between self and agonist ligands, Proceedings of the National Academy of Sciences, 20 October 2020, 117(42), p26020–26030, doi=10.1073/pnas.2008303117)
 
@@ -73,6 +74,6 @@ SBML Support
 
 pySB is able to export SBML in flattened form.. That is, the rule-based model is converted into explicit reactions. This means that the rule-based formalism is not preserved. 
 
-For import, pySB converts the SBML into BioNetGen first using BioNetGen application. pySB then imports the BioNetGen format using the pySB [[BioNetGen]] importer. This means import is limited by the import capabilities of BioNetGen
+For import, pySB converts the SBML into BioNetGen first using BioNetGen application. pySB then imports the BioNetGen format using the pySB BioNetGen importer. This means import is limited by the import capabilities of BioNetGen
 
 
