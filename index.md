@@ -17,7 +17,7 @@ layout: home
 | [CompuCell3D] | GUI/Scripting tool for building and simulating multicellular models. | multiplatform (C++/Python) | MIT | Yes, but only for reactions. |
 | [COPASI] | GUI tool for analyzing and simulating SBML models. | multiplatform (C++) | Artistic License | Yes |
 | [Cytosim] | Spatial simulator for flexible cytoskeletal filaments and motor proteins | Mac, Linux, Cygwin (C++) | GPL3 | Not applicable |
-| [libroadrunner] | High-performance software library for simulation and analysis of SBML models | multiplatform (C/C++) | Apache License |  Yes |
+| [libroadrunner] | High-performance software library for simulation and analysis of SBML models | multiplatform (C/C++) | Apache License | Yes |
 | [massPy] | Simulation tool | multiplatform (Python) MIT | Yes |
 | [MCell] | GUI tool for particle-based spatial stochastic simulation with individual molecules | multiplatform | MIT and GPLv2 | Not applicable |
 | [OpenCOR] | A cross-platform modelling environment, which is aimed at organizing, editing, simulating, and analysing CellML files on Microsoft Windows|Windows, Linux and macOS. | ultiplatform (C++/Python) | GPLv3 | Uses CellML |
@@ -28,7 +28,7 @@ layout: home
 | [ReaDDy] | Particle-based spatial simulator with intermolecular potentials | Linux and Mac | Custom  | Not applicable |
 | [SBSCL] | Java library with efficient and exhaustive support for SBML | multiplatform (Java) | LGPL | https://draeger-lab.github.io/SBSCL/ | Yes
 | [SBW] | A distributed workbench that includes many modeling tools | multiplatform (C/C++) | BSD-3  | Yes |
-| [Smoldyn] | Particle-based simulator for spatial stochastic simulations with individual molecules | multiplatform (C/C++/Python) | LGPL  Not applicable |
+| [Smoldyn] | Particle-based simulator for spatial stochastic simulations with individual molecules | multiplatform (C/C++/Python) | LGPL | Not applicable |
 | [Spatiocyte] | Spatial modeling software that uses a fine lattice with up to one molecule per site | multiplatform | Unknown | Not applicable |
 | [SpringSaLaD] | Particle-based spatial simulator in which molecules are spheres that are linked by springs | multiplatform | Unknown | Not applicable |
 | [STEPS] | Stochastic reaction-diffusion and membrane potential solver on distributed meshes | multiplatform (C++/Python) | GPLv2 | 
