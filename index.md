@@ -26,7 +26,7 @@ layout: home
 | [PySCeS] | Python tool for modeling and analyzing SBML models | multiplatform (Python| BSD-3  | Yes |
 | [pySB] | Python-based platform with specialization in rule-based models. | multiplatform (Python)| BSD-3 | Partial |
 | [ReaDDy] | Particle-based spatial simulator with intermolecular potentials | Linux and Mac | Custom  | Not applicable |
-| [SBSCL] | Java library with efficient and exhaustive support for SBML | multiplatform (Java) | LGPL | https://draeger-lab.github.io/SBSCL/ | Yes
+| [SBSCL] | Java library with efficient and exhaustive support for SBML | multiplatform (Java) | LGPL  | Yes
 | [SBW] | A distributed workbench that includes many modeling tools | multiplatform (C/C++) | BSD-3  | Yes |
 | [Smoldyn] | Particle-based simulator for spatial stochastic simulations with individual molecules | multiplatform (C/C++/Python) | LGPL | Not applicable |
 | [Spatiocyte] | Spatial modeling software that uses a fine lattice with up to one molecule per site | multiplatform | Unknown | Not applicable |
@@ -63,7 +63,7 @@ To get started with creating a site, just click "[use this template]"!
 [PhysiCell]: http://physicell.org
 [OpenCor]: https://opencor.ws/
 [URDME]: http://urdme.github.io/urdme/
-[SBSCL]: https://sbw.sourceforge.net/
+[SBSCL]: https://draeger-lab.github.io/SBSCL/
 [PySCeS]: https://pysces.sourceforge.net/
 [Smoldyn]: https://www.smoldyn.org/
 [SpringSaLaD]: https://vcell.org/ssalad 
