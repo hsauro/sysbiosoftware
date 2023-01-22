@@ -11,13 +11,13 @@ layout: home
 | ok           | good `zoute` drop | yumm  |
 
 
-| Name         | Description            | OS    | License | Site | SBML Support |
-|:-------------|:-----------------------|:------|:--------|:-----|:-------------|
+| Name         | Description            | OS    | License | SBML Support |
+|:-------------|:-----------------------|:------|:--------|:-------------|
 | [iBioSim] | iBioSim  is a computer-aided design (CAD) tool for the modeling, analysis, and design of genetic circuits. | multiplatform (Java/C++) | Apache | Yes |
 | CompuCell3D | GUI/Scripting tool | for building and simulating multicellular models. | multiplatform (C++/Python) | MIT | https://compucell3d.org | Yes, but only for reactions. |
-| COPASI | GUI tool for analyzing and simulating SBML models. | multiplatform (C++) | Artistic License | http://www.copasi.org | Yes |
+| [COPASI] | GUI tool for analyzing and simulating SBML models. | multiplatform (C++) | Artistic License | http://www.copasi.org | Yes |
 | Cytosim || Spatial simulator for flexible cytoskeletal filaments and motor proteins | Mac, Linux, Cygwin (C++) | GPL3 | http://cytosim.org | Not applicable |
-| libroadrunner | High-performance software library for simulation and analysis of SBML models | multiplatform (C/C++) | Apache License | https://github.com/sys-bio/roadrunner | Yes |
+| libroadrunner | High-performance software library for simulation and analysis of SBML models | multiplatform (C/C++) | Apache License |  Yes |
 | massPy
 | Simulation tool | multiplatform (Python) MIT | https://github.com/SBRG/MASSpy | Yes |
 | MCell | GUI tool for particle-based spatial stochastic simulation with individual molecules | multiplatform | MIT and GPLv2 | https://mcell.org/index.html | Not applicable |
@@ -38,7 +38,7 @@ layout: home
 | Tellurium (software) | Simulation environment that packages multiple libraries into one platform. | multiplatform (Python) | Apache License | https://github.com/sys-bio/tellurium | Yes |
 | URDME | Stochastic reaction-diffusion simulation on unstructured meshes<ref>{{cite journal |last1=Drawert |first1=B. |last2=Engblom |first2=S. |last3=Hellander |first3=A |title=URDME: A modular framework for stochastic simulation of reaction-transport processes in complex geometries |journal=BMC Systems Biology |volume=6 |date=2012|page=76 |doi=10.1186/1752-0509-6-76 |pmid=22727185 |pmc=3439286 }}</ref> || MatLab on Mac, Linux || GPL3 || [http://urdme.github.io/urdme/]|| Not applicable |
 | VCell | Comprehensive modeling platform for non-spatial, spatial, deterministic and stochastic simulations, including both reaction networks and reaction rules. 
-| multiplatform (Java) | MIT | https://vcell.org | Yes |
+| multiplatform (Java) | MIT | Yes |
 
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 
@@ -60,6 +60,9 @@ To get started with creating a site, just click "[use this template]"!
 [^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
 
 [iBioSim]: https://github.com/MyersResearchGroup/iBioSim
+[VCell]: https://vcell.org
+[COPASI]: https://github.com/sys-bio/roadrunner
+
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
 [README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
