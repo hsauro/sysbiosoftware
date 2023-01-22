@@ -26,17 +26,12 @@ layout: home
 | PhysiCell | A agent-based modeling framework for multicellular systems biology.
 |multiplatform (C++)| BSD-3 | http://physicell.org | Yes, but only for reactions |
 | PySCeS | Python tool for modeling and analyzing SBML models | multiplatform (Python| BSD-3 | https://pysces.sourceforge.net/ | Yes |
-| pySB
-| Python-based platform with specialization in rule-based models. |multiplatform (Python)| BSD-3]] | https://pysb.org/ | Partial |
-| ReaDDy
-| Particle-based spatial simulator with intermolecular potentials | Linux and Mac | Custom | https://readdy.github.io/index.html |Not applicable |
-| SBSCL
-| Java library<ref>{{cite journal |last1=Panchiwala |first1=H |last2=Shah |first2=S |last3=Planatscher |first3=H |last4=Zakharchuk |first4=M |last5=König |first5=M |last6=Dräger |first6=A |title=The Systems Biology Simulation Core Library. |journal=Bioinformatics |date=23 September 2021 |volume=38 |issue=3 |pages=864–865 |doi=10.1093/bioinformatics/btab669 |pmid=34554191|pmc=8756180 }}</ref><ref>{{cite journal |last1=Tangherloni |first1=Andrea |last2=Nobile |first2=Marco S. |last3=Cazzaniga |first3=Paolo |last4=Capitoli |first4=Giulia |last5=Spolaor |first5=Simone |last6=Rundo |first6=Leonardo |last7=Mauri |first7=Giancarlo |last8=Besozzi |first8=Daniela |title=FiCoS: A fine-grained and coarse-grained GPU-powered deterministic simulator for biochemical networks |journal=PLOS Computational Biology |date=9 September 2021 |volume=17 |issue=9 |pages=e1009410 |doi=10.1371/journal.pcbi.1009410|pmid=34499658 |pmc=8476010 |bibcode=2021PLSCB..17E9410T }}</ref> with efficient and exhaustive support for SBML | multiplatform (Java) | LGPL | https://draeger-lab.github.io/SBSCL/ | Yes
-|-
-| SBW (software)|SBW | A distributed workbench that includes many modeling tools | multiplatform (C/C++) | BSD-3 | https://sbw.sourceforge.net/ | Yes |
+| pySB | Python-based platform with specialization in rule-based models. | multiplatform (Python)| BSD-3 | https://pysb.org/ | Partial |
+| ReaDDy | Particle-based spatial simulator with intermolecular potentials | Linux and Mac | Custom | https://readdy.github.io/index.html |Not applicable |
+| SBSCL | Java library<ref>{{cite journal |last1=Panchiwala |first1=H |last2=Shah |first2=S |last3=Planatscher |first3=H |last4=Zakharchuk |first4=M |last5=König |first5=M |last6=Dräger |first6=A |title=The Systems Biology Simulation Core Library. |journal=Bioinformatics |date=23 September 2021 |volume=38 |issue=3 |pages=864–865 |doi=10.1093/bioinformatics/btab669 |pmid=34554191|pmc=8756180 }}</ref><ref>{{cite journal |last1=Tangherloni |first1=Andrea |last2=Nobile |first2=Marco S. |last3=Cazzaniga |first3=Paolo |last4=Capitoli |first4=Giulia |last5=Spolaor |first5=Simone |last6=Rundo |first6=Leonardo |last7=Mauri |first7=Giancarlo |last8=Besozzi |first8=Daniela |title=FiCoS: A fine-grained and coarse-grained GPU-powered deterministic simulator for biochemical networks |journal=PLOS Computational Biology |date=9 September 2021 |volume=17 |issue=9 |pages=e1009410 |doi=10.1371/journal.pcbi.1009410|pmid=34499658 |pmc=8476010 |bibcode=2021PLSCB..17E9410T }}</ref> with efficient and exhaustive support for SBML | multiplatform (Java) | LGPL | https://draeger-lab.github.io/SBSCL/ | Yes
+| SBW (so |ftware)|SBW | A distributed workbench that includes many modeling tools | multiplatform (C/C++) | BSD-3 | https://sbw.sourceforge.net/ | Yes |
 | Smoldyn | Particle-based simulator for spatial stochastic simulations with individual molecules | multiplatform (C/C++/Python) | LGPL]] | https://www.smoldyn.org/ Not applicable |
-| Spatiocyte | Spatial modeling software that uses a fine lattice with up to one molecule per site | multiplatform | Unknown | https://spatiocyte.org | Not applicable
-|-
+| Spatiocyte | Spatial modeling software that uses a fine lattice with up to one molecule per site | multiplatform | Unknown | https://spatiocyte.org | Not applicable |
 | SpringSaLaD | Particle-based spatial simulator in which molecules are spheres that are linked by springs | multiplatform | Unknown | https://vcell.org/ssalad | Not applicable |
 | STEPS
 |Stochastic reaction-diffusion and membrane potential solver on distributed meshes |multiplatform (C++/Python) |GPLv2 https://steps.sourceforge.net
