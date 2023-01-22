@@ -14,28 +14,27 @@ layout: home
 | Name         | Description            | OS    | License | SBML Support |
 |:-------------|:-----------------------|:------|:--------|:-------------|
 | [iBioSim] | iBioSim  is a computer-aided design (CAD) tool for the modeling, analysis, and design of genetic circuits. | multiplatform (Java/C++) | Apache | Yes |
-| CompuCell3D | GUI/Scripting tool | for building and simulating multicellular models. | multiplatform (C++/Python) | MIT | https://compucell3d.org | Yes, but only for reactions. |
+| [CompuCell3D] | GUI/Scripting tool | for building and simulating multicellular models. | multiplatform (C++/Python) | MIT | Yes, but only for reactions. |
 | [COPASI] | GUI tool for analyzing and simulating SBML models. | multiplatform (C++) | Artistic License | http://www.copasi.org | Yes |
 | Cytosim || Spatial simulator for flexible cytoskeletal filaments and motor proteins | Mac, Linux, Cygwin (C++) | GPL3 | http://cytosim.org | Not applicable |
-| libroadrunner | High-performance software library for simulation and analysis of SBML models | multiplatform (C/C++) | Apache License |  Yes |
-| massPy
-| Simulation tool | multiplatform (Python) MIT | https://github.com/SBRG/MASSpy | Yes |
+| [libroadrunner] | High-performance software library for simulation and analysis of SBML models | multiplatform (C/C++) | Apache License |  Yes |
+| [massPy] | Simulation tool | multiplatform (Python) MIT | Yes |
 | [MCell] | GUI tool for particle-based spatial stochastic simulation with individual molecules | multiplatform | MIT and GPLv2 | Not applicable |
 | [OpenCOR] | A cross-platform modelling environment, which is aimed at organizing, editing, simulating, and analysing CellML files on Microsoft Windows|Windows, Linux and macOS. | ultiplatform (C++/Python) | GPLv3 | Uses CellML |
-| PhysiBoSS | | A specialized form of the PhysiCell agent-based modeling platform that directly integrates Boolean signaling networks into cell | multiplatform (C++) | BSD-3 | https://github.com/PhysiBoSS/PhysiBoSS | Yes, but only for reactions |
+| [PhysiBoSS] | | A specialized form of the PhysiCell agent-based modeling platform that directly integrates Boolean signaling networks into cell | multiplatform (C++) | BSD-3 | Yes, but only for reactions |
 | [PhysiCell] | A agent-based modeling framework for multicellular systems biology.
 |multiplatform (C++)| BSD-3 | Yes, but only for reactions |
-| PySCeS | Python tool for modeling and analyzing SBML models | multiplatform (Python| BSD-3 | https://pysces.sourceforge.net/ | Yes |
-| pySB | Python-based platform with specialization in rule-based models. | multiplatform (Python)| BSD-3 | https://pysb.org/ | Partial |
+| [PySCeS] | Python tool for modeling and analyzing SBML models | multiplatform (Python| BSD-3 | https://pysces.sourceforge.net/ | Yes |
+| pySB | Python-based platform with specialization in rule-based models. | multiplatform (Python)| BSD-3 | Partial |
 | ReaDDy | Particle-based spatial simulator with intermolecular potentials | Linux and Mac | Custom | https://readdy.github.io/index.html |Not applicable |
-| SBSCL | Java library<ref>{{cite journal |last1=Panchiwala |first1=H |last2=Shah |first2=S |last3=Planatscher |first3=H |last4=Zakharchuk |first4=M |last5=König |first5=M |last6=Dräger |first6=A |title=The Systems Biology Simulation Core Library. |journal=Bioinformatics |date=23 September 2021 |volume=38 |issue=3 |pages=864–865 |doi=10.1093/bioinformatics/btab669 |pmid=34554191|pmc=8756180 }}</ref><ref>{{cite journal |last1=Tangherloni |first1=Andrea |last2=Nobile |first2=Marco S. |last3=Cazzaniga |first3=Paolo |last4=Capitoli |first4=Giulia |last5=Spolaor |first5=Simone |last6=Rundo |first6=Leonardo |last7=Mauri |first7=Giancarlo |last8=Besozzi |first8=Daniela |title=FiCoS: A fine-grained and coarse-grained GPU-powered deterministic simulator for biochemical networks |journal=PLOS Computational Biology |date=9 September 2021 |volume=17 |issue=9 |pages=e1009410 |doi=10.1371/journal.pcbi.1009410|pmid=34499658 |pmc=8476010 |bibcode=2021PLSCB..17E9410T }}</ref> with efficient and exhaustive support for SBML | multiplatform (Java) | LGPL | https://draeger-lab.github.io/SBSCL/ | Yes
-| SBW (so |ftware)|SBW | A distributed workbench that includes many modeling tools | multiplatform (C/C++) | BSD-3 | https://sbw.sourceforge.net/ | Yes |
-| Smoldyn | Particle-based simulator for spatial stochastic simulations with individual molecules | multiplatform (C/C++/Python) | LGPL]] | https://www.smoldyn.org/ Not applicable |
+| [SBSCL] | Java library with efficient and exhaustive support for SBML | multiplatform (Java) | LGPL | https://draeger-lab.github.io/SBSCL/ | Yes
+| SBW (so |ftware)|SBW | A distributed workbench that includes many modeling tools | multiplatform (C/C++) | BSD-3  | Yes |
+| [Smoldyn] | Particle-based simulator for spatial stochastic simulations with individual molecules | multiplatform (C/C++/Python) | LGPL  Not applicable |
 | Spatiocyte | Spatial modeling software that uses a fine lattice with up to one molecule per site | multiplatform | Unknown | https://spatiocyte.org | Not applicable |
-| SpringSaLaD | Particle-based spatial simulator in which molecules are spheres that are linked by springs | multiplatform | Unknown | https://vcell.org/ssalad | Not applicable |
-| STEPS | Stochastic reaction-diffusion and membrane potential solver on distributed meshes | multiplatform (C++/Python) | GPLv2 | 
+| [SpringSaLaD] | Particle-based spatial simulator in which molecules are spheres that are linked by springs | multiplatform | Unknown | Not applicable |
+| [STEPS] | Stochastic reaction-diffusion and membrane potential solver on distributed meshes | multiplatform (C++/Python) | GPLv2 | 
 | Tellurium (software) | Simulation environment that packages multiple libraries into one platform. | multiplatform (Python) | Apache License | https://github.com/sys-bio/tellurium | Yes |
-| URDME | Stochastic reaction-diffusion simulation on unstructured meshes<ref>{{cite journal |last1=Drawert |first1=B. |last2=Engblom |first2=S. |last3=Hellander |first3=A |title=URDME: A modular framework for stochastic simulation of reaction-transport processes in complex geometries |journal=BMC Systems Biology |volume=6 |date=2012|page=76 |doi=10.1186/1752-0509-6-76 |pmid=22727185 |pmc=3439286 }}</ref> || MatLab on Mac, Linux || GPL3 || [http://urdme.github.io/urdme/]|| Not applicable |
+| [URDME] | Stochastic reaction-diffusion simulation on unstructured meshes | MatLab on Mac, Linux | GPL3 | Not applicable |
 | VCell | Comprehensive modeling platform for non-spatial, spatial, deterministic and stochastic simulations, including both reaction networks and reaction rules. 
 | multiplatform (Java) | MIT | Yes |
 
@@ -64,7 +63,17 @@ To get started with creating a site, just click "[use this template]"!
 [STEPS]: https://steps.sourceforge.net
 [MCell]: https://mcell.org/index.html
 [PhysiCell]: http://physicell.org
-[OpenCor]: https://opencor.ws/ 
+[OpenCor]: https://opencor.ws/
+[URDME]: http://urdme.github.io/urdme/
+[SBSCL]: https://sbw.sourceforge.net/
+[PySCeS]: https://pysb.org/
+[Smoldyn]: https://www.smoldyn.org/
+[SpringSaLaD]: https://vcell.org/ssalad 
+[STEPS]: http://google.com
+[libroadrunner]:  http://libroadrunner.org
+[massPy]: https://github.com/SBRG/MASSpy 
+[PhysiBoSS]: https://github.com/PhysiBoSS/PhysiBoSS
+[CompuCell3D]: https://compucell3d.org 
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
