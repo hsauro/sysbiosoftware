@@ -19,4 +19,4 @@ operating system       = Linux, macOS and Microsoft Windows
 
 license                = Apache License
 
-website                = [https://github.com/MyersResearchGroup/iBioSim]
+website                = [https://github.com/MyersResearchGroup/iBioSim](https://github.com/MyersResearchGroup/iBioSim)
