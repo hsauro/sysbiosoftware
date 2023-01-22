@@ -11,10 +11,9 @@ layout: home
 | ok           | good `zoute` drop | yumm  |
 
 
-| Name         | Description/Notability | OS    | License | Site | SBML Support |
+| Name         | Description | OS    | License | Site | SBML Support |
 |:-------------|:-----------------------|:------|:--------|:-----|:-------------|
-| iBioSim | iBioSim  is a computer-aided design (CAD) tool for the modeling, analysis, and design of genetic circuits.
-||multiplatform (Java/C++) | Apache | https://github.com/MyersResearchGroup/iBioSim | Yes |
+| iBioSim | iBioSim  is a computer-aided design (CAD) tool for the modeling, analysis, and design of genetic circuits. | multiplatform (Java/C++) | Apache | https://github.com/MyersResearchGroup/iBioSim | Yes |
 |-
 | CompuCell3D
 | GUI/Scripting tool<ref>{{cite journal |last1=Swat |first1=Maciej H. |last2=Thomas |first2=Gilberto L. |last3=Belmonte |first3=Julio M. |last4=Shirinifard |first4=Abbas |last5=Hmeljak |first5=Dimitrij |last6=Glazier |first6=James A. |title=Multi-Scale Modeling of Tissues Using CompuCell3D |journal=Methods in Cell Biology |date=2012 |volume=110 |pages=325–366 |doi=10.1016/B978-0-12-388403-9.00013-8|pmid=22482955 |pmc=3612985 |isbn=9780123884039 }}</ref> for building and simulating multicellular models.
