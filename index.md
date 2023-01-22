@@ -5,11 +5,8 @@ layout: home
 
 List of systems biology modeling software
 
-[www.cnn.com](www.cnn.com).
+[Wikipedia Page](https://en.wikipedia.org/wiki/List_of_systems_biology_modeling_software).
 
-[test1.md](test1.md)
-
-[test2.md](test2.md)
 
 cjcalcj aljad aldja ldjaldjadakdhakdh aakjd akdha kdha dkahd akdha kdhak dakdha kdhak dahk dahkdj adkahd ak
 
