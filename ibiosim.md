@@ -1,9 +1,7 @@
 
 ---
-layout: default
-title: Buttons
-parent: index
-nav_order: 2
+layout: home
+title: iBioSim
 ---
 
 Test
