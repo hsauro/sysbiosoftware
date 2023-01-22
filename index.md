@@ -21,7 +21,7 @@ layout: home
 | [massPy] | Simulation tool | multiplatform (Python) MIT | Yes |
 | [MCell] | GUI tool for particle-based spatial stochastic simulation with individual molecules | multiplatform | MIT and GPLv2 | Not applicable |
 | [OpenCOR] | A cross-platform modelling environment, which is aimed at organizing, editing, simulating, and analysing CellML files on Microsoft Windows|Windows, Linux and macOS. | ultiplatform (C++/Python) | GPLv3 | Uses CellML |
-| [PhysiBoSS] | | A specialized form of the PhysiCell agent-based modeling platform that directly integrates Boolean signaling networks into cell | multiplatform (C++) | BSD-3 | Yes, but only for reactions |
+| [PhysiBoSS] | A specialized form of the PhysiCell agent-based modeling platform that directly integrates Boolean signaling networks into cell | multiplatform (C++) | BSD-3 | Yes, but only for reactions |
 | [PhysiCell] | A agent-based modeling framework for multicellular systems biology. |multiplatform (C++)| BSD-3 | Yes, but only for reactions |
 | [PySCeS] | Python tool for modeling and analyzing SBML models | multiplatform (Python| BSD-3 | https://pysces.sourceforge.net/ | Yes |
 | [pySB] | Python-based platform with specialization in rule-based models. | multiplatform (Python)| BSD-3 | Partial |
@@ -29,7 +29,7 @@ layout: home
 | [SBSCL] | Java library with efficient and exhaustive support for SBML | multiplatform (Java) | LGPL | https://draeger-lab.github.io/SBSCL/ | Yes
 | [SBW] | A distributed workbench that includes many modeling tools | multiplatform (C/C++) | BSD-3  | Yes |
 | [Smoldyn] | Particle-based simulator for spatial stochastic simulations with individual molecules | multiplatform (C/C++/Python) | LGPL  Not applicable |
-| Spatiocyte | Spatial modeling software that uses a fine lattice with up to one molecule per site | multiplatform | Unknown | https://spatiocyte.org | Not applicable |
+| [Spatiocyte] | Spatial modeling software that uses a fine lattice with up to one molecule per site | multiplatform | Unknown | Not applicable |
 | [SpringSaLaD] | Particle-based spatial simulator in which molecules are spheres that are linked by springs | multiplatform | Unknown | Not applicable |
 | [STEPS] | Stochastic reaction-diffusion and membrane potential solver on distributed meshes | multiplatform (C++/Python) | GPLv2 | 
 | [Tellurium (software)] | Simulation environment that packages multiple libraries into one platform. | multiplatform (Python) | Apache License | Yes |
@@ -78,6 +78,7 @@ To get started with creating a site, just click "[use this template]"!
 [Tellurium (software)]: https://github.com/sys-bio/tellurium 
 [SBW]: https://sbw.sourceforge.net/
 [ReaDDy]:https://readdy.github.io/index.html
+[Spatiocyte]: https://spatiocyte.org
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
