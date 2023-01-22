@@ -20,7 +20,7 @@ layout: home
 | libroadrunner | High-performance software library for simulation and analysis of SBML models | multiplatform (C/C++) | Apache License |  Yes |
 | massPy
 | Simulation tool | multiplatform (Python) MIT | https://github.com/SBRG/MASSpy | Yes |
-| MCell | GUI tool for particle-based spatial stochastic simulation with individual molecules | multiplatform | MIT and GPLv2 | https://mcell.org/index.html | Not applicable |
+| [MCell] | GUI tool for particle-based spatial stochastic simulation with individual molecules | multiplatform | MIT and GPLv2 | Not applicable |
 | OpenCOR | A cross-platform modelling environment, which is aimed at organizing, editing, simulating, and analysing CellML files on Microsoft Windows|Windows, Linux and macOS. | ultiplatform (C++/Python) | GPLv3 | https://opencor.ws/ | Uses CellML |
 | PhysiBoSS | | A specialized form of the PhysiCell agent-based modeling platform that directly integrates Boolean signaling networks into cell | multiplatform (C++) | BSD-3 | https://github.com/PhysiBoSS/PhysiBoSS | Yes, but only for reactions |
 | PhysiCell | A agent-based modeling framework for multicellular systems biology.
@@ -33,8 +33,7 @@ layout: home
 | Smoldyn | Particle-based simulator for spatial stochastic simulations with individual molecules | multiplatform (C/C++/Python) | LGPL]] | https://www.smoldyn.org/ Not applicable |
 | Spatiocyte | Spatial modeling software that uses a fine lattice with up to one molecule per site | multiplatform | Unknown | https://spatiocyte.org | Not applicable |
 | SpringSaLaD | Particle-based spatial simulator in which molecules are spheres that are linked by springs | multiplatform | Unknown | https://vcell.org/ssalad | Not applicable |
-| STEPS | Stochastic reaction-diffusion and membrane potential solver on distributed meshes | multiplatform (C++/Python) | GPLv2 | https://steps.sourceforge.net
-| https://steps.sourceforge.net/manual/sbml_importer.html#Level-of-support |
+| STEPS | Stochastic reaction-diffusion and membrane potential solver on distributed meshes | multiplatform (C++/Python) | GPLv2 | 
 | Tellurium (software) | Simulation environment that packages multiple libraries into one platform. | multiplatform (Python) | Apache License | https://github.com/sys-bio/tellurium | Yes |
 | URDME | Stochastic reaction-diffusion simulation on unstructured meshes<ref>{{cite journal |last1=Drawert |first1=B. |last2=Engblom |first2=S. |last3=Hellander |first3=A |title=URDME: A modular framework for stochastic simulation of reaction-transport processes in complex geometries |journal=BMC Systems Biology |volume=6 |date=2012|page=76 |doi=10.1186/1752-0509-6-76 |pmid=22727185 |pmc=3439286 }}</ref> || MatLab on Mac, Linux || GPL3 || [http://urdme.github.io/urdme/]|| Not applicable |
 | VCell | Comprehensive modeling platform for non-spatial, spatial, deterministic and stochastic simulations, including both reaction networks and reaction rules. 
@@ -62,6 +61,8 @@ To get started with creating a site, just click "[use this template]"!
 [iBioSim]: https://github.com/MyersResearchGroup/iBioSim
 [VCell]: https://vcell.org
 [COPASI]: https://github.com/sys-bio/roadrunner
+[STEPS]: https://steps.sourceforge.net
+[MCell]: https://mcell.org/index.html
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
