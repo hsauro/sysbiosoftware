@@ -10,10 +10,9 @@ layout: home
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
-{| class="wikitable"
-! Name
-! Description/Notability ||OS||License||Site||[[SBML]] Support
-|-
+
+| Name         | Description/Notability | OS    | License | Site | SBML Support |
+|:-------------|:-----------------------|:------|:--------|:-----|:-------------|
 | [[iBioSim]]
 | iBioSim<ref>{{cite journal |last1=Watanabe |first1=Leandro |last2=Nguyen |first2=Tramy |last3=Zhang |first3=Michael |last4=Zundel |first4=Zach |last5=Zhang |first5=Zhen |last6=Madsen |first6=Curtis |last7=Roehner |first7=Nicholas |last8=Myers |first8=Chris |title=iBioSim3: A Tool for Model-Based Genetic Circuit Design |journal=ACS Synthetic Biology |date=19 July 2019 |volume=8 |issue=7 |pages=1560–1563 |doi=10.1021/acssynbio.8b00078|pmid=29944839 |s2cid=49429947 }}</ref><ref>{{cite journal |last1=Martínez-García |first1=Esteban |last2=Goñi-Moreno |first2=Angel |last3=Bartley |first3=Bryan |last4=McLaughlin |first4=James |last5=Sánchez-Sampedro |first5=Lucas |last6=Pascual del Pozo |first6=Héctor |last7=Prieto Hernández |first7=Clara |last8=Marletta |first8=Ada Serena |last9=De Lucrezia |first9=Davide |last10=Sánchez-Fernández |first10=Guzmán |last11=Fraile |first11=Sofía |last12=de Lorenzo |first12=Víctor |title=SEVA 3.0: an update of the Standard European Vector Architecture for enabling portability of genetic constructs among diverse bacterial hosts |journal=Nucleic Acids Research |date=8 January 2020 |volume=48 |issue=D1 |pages=D1164–D1170 |doi=10.1093/nar/gkz1024|pmid=31740968 |pmc=7018797 }}</ref> is a computer-aided design (CAD) tool for the modeling, analysis, and design of genetic circuits.
 ||multiplatform (Java/C++)||[[Apache]]||[https://github.com/MyersResearchGroup/iBioSim]|| Yes
@@ -102,7 +101,7 @@ layout: home
 ||multiplatform (Java)||MIT||[https://vcell.org]|| Yes
 |-
 |
-|}
+|
 
 
 
