@@ -28,7 +28,7 @@ PySB.Programming biological models in Python using PySB, Molecular Systems Biolo
 
  Capabilities
  ============
-
+ 
 * Can be used to describe rule-based models of complex biochemical pathways, particularly signaling pathways. 
 * Can be used to create model libraries based on macros to reuse.
 * Uses standard python sci-py numerical libraries for carrying out simulations.
@@ -42,9 +42,9 @@ pySB has been used in a variety of research projects. The following lists a smal
 
 * Information discrimination in T-cell signaling (How the T cell signaling network processes information to discriminate between self and agonist ligands, Proceedings of the National Academy of Sciences, 20 October 2020, 117(42), p26020–26030, doi=10.1073/pnas.2008303117)
 
-* Modeling of JNK3 cascade (Arrestin-3 scaffolding of the JNK3 cascade suggests a mechanism for signal amplification, Proceedings of the National Academy of Sciences, 15 January 2019, 116(3), p8(10–815, doi=10.1073/pnas.1819230116)
+* Modeling of JNK3 cascade (Arrestin-3 scaffolding of the JNK3 cascade suggests a mechanism for signal amplification, Proceedings of the National Academy of Sciences, 15 January 2019, 116(3), p810–815, doi=10.1073/pnas.1819230116)
 
-* Inverted control of eukaryotic gene expression (Inverted translational control of eukaryotic gene expression by ribosome collisions, PLOS Biology, September 2019, 17 (9), pe3000396, doi=10.1371/journal.pbio.3000396|pmid=31532761)
+* Inverted control of eukaryotic gene expression (Inverted translational control of eukaryotic gene expression by ribosome collisions, PLOS Biology, September 2019, 17 (9), pe3000396, doi=10.1371/journal.pbio.3000396)
 
 * Construction of Cellular Responses and Global Drug Mechanisms of Action (Integrated, High-Throughput, Multiomics Platform Enables Data-Driven Construction of Cellular Responses and Reveals Global Drug Mechanisms of Action, Journal of Proteome Research, March 2017, 16(3), p1364–1375, doi=10.1021/acs.jproteome.6b01004)
 
