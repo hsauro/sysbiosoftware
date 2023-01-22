@@ -1,3 +1,7 @@
+---
+title: Home
+layout: home
+---
 
 List of systems biology modeling software
 
