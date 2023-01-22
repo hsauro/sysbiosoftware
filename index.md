@@ -25,12 +25,9 @@ layout: home
 | Simulation tool | multiplatform (Python) MIT | https://github.com/SBRG/MASSpy | Yes |
 | MCell | GUI tool for particle-based spatial stochastic simulation with individual molecules | multiplatform | MIT and GPLv2 | https://mcell.org/index.html | Not applicable |
 | OpenCOR | A cross-platform modelling environment, which is aimed at organizing, editing, simulating, and analysing CellML files on Microsoft Windows|Windows, Linux and macOS. | ultiplatform (C++/Python) | GPLv3 | https://opencor.ws/ | Uses CellML |
-| PhysiBoSS
-| A specialized form of the PhysiCell agent-based modeling platform that directly integrates Boolean signaling networks into cell | multiplatform (C++) | BSD-3 |[https://github.com/PhysiBoSS/PhysiBoSS]|| Yes, but only for reactions
-|-
+| PhysiBoSS | | A specialized form of the PhysiCell agent-based modeling platform that directly integrates Boolean signaling networks into cell | multiplatform (C++) | BSD-3 | https://github.com/PhysiBoSS/PhysiBoSS | Yes, but only for reactions |
 | PhysiCell | A agent-based modeling framework for multicellular systems biology.
-||multiplatform (C++)||[[BSD-3]]||[http://physicell.org]|| Yes, but only for reactions
-|-
+||multiplatform (C++)||[[BSD-3]]||[http://physicell.org]|| Yes, but only for reactions |
 | PySCeS | Python tool for modeling and analyzing SBML models | multiplatform (Python| BSD-3 | https://pysces.sourceforge.net/ | Yes |
 | pySB
 | Python-based<ref>{{cite journal |last1=Stefan |first1=Melanie I. |last2=Bartol |first2=Thomas M. |last3=Sejnowski |first3=Terrence J. |last4=Kennedy |first4=Mary B. |title=Multi-state Modeling of Biomolecules |journal=PLOS Computational Biology |date=25 September 2014 |volume=10 |issue=9 |pages=e1003844 |doi=10.1371/journal.pcbi.1003844|pmid=25254957 |pmc=4201162 |bibcode=2014PLSCB..10E3844S }}</ref> platform with specialization in rule-based models.
@@ -39,7 +36,7 @@ layout: home
 | ReaDDy
 | Particle-based spatial simulator with intermolecular potentials<ref>{{cite journal |last1=Schöneberg |first1=J. |last2=Ullrich |first2=A. |last3=Noé |first3=F. |date=2014 |title=Simulation tools for particle-based reaction-diffusion dynamics in continuous space |journal=BMC Biophys. |volume=7 |pages=1}}</ref> || Linux and Mac || Custom || [https://readdy.github.io/index.html]|| Not applicable
 |-
-| [[SBSCL]]
+| SBSCL
 | Java library<ref>{{cite journal |last1=Panchiwala |first1=H |last2=Shah |first2=S |last3=Planatscher |first3=H |last4=Zakharchuk |first4=M |last5=König |first5=M |last6=Dräger |first6=A |title=The Systems Biology Simulation Core Library. |journal=Bioinformatics |date=23 September 2021 |volume=38 |issue=3 |pages=864–865 |doi=10.1093/bioinformatics/btab669 |pmid=34554191|pmc=8756180 }}</ref><ref>{{cite journal |last1=Tangherloni |first1=Andrea |last2=Nobile |first2=Marco S. |last3=Cazzaniga |first3=Paolo |last4=Capitoli |first4=Giulia |last5=Spolaor |first5=Simone |last6=Rundo |first6=Leonardo |last7=Mauri |first7=Giancarlo |last8=Besozzi |first8=Daniela |title=FiCoS: A fine-grained and coarse-grained GPU-powered deterministic simulator for biochemical networks |journal=PLOS Computational Biology |date=9 September 2021 |volume=17 |issue=9 |pages=e1009410 |doi=10.1371/journal.pcbi.1009410|pmid=34499658 |pmc=8476010 |bibcode=2021PLSCB..17E9410T }}</ref> with efficient and exhaustive support for SBML
 ||multiplatform (Java)||[[LGPL]]||[https://draeger-lab.github.io/SBSCL/]|| Yes
 |-
