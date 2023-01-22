@@ -50,7 +50,7 @@ List of systems biology modeling software
 [PySCeS]: https://pysces.sourceforge.net/
 [Smoldyn]: https://www.smoldyn.org/
 [SpringSaLaD]: https://vcell.org/ssalad 
-[STEPS]: http://google.com
+[STEPS]: https://steps.sourceforge.net/manual/manual_index.html
 [libroadrunner]:  http://libroadrunner.org
 [massPy]: https://github.com/SBRG/MASSpy 
 [PhysiBoSS]: https://github.com/PhysiBoSS/PhysiBoSS
