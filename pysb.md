@@ -37,9 +37,9 @@ Applications of pySB
 
 pySB has been used in a variety of research projects. The following lists a small number of those studies (out of a total of 230 mentions in the scientific literature (as of Oct 2022).
 
-* Studies on substrate selectivity in cyclooxygenase-2 (Competition and allostery govern substrate selectivity of cyclooxygenase-2 |journal=Proceedings of the National Academy of Sciences, October 2015, 112(40), p12366–12371, doi=10.1073/pnas.1507307112
+* Studies on substrate selectivity in cyclooxygenase-2 (Competition and allostery govern substrate selectivity of cyclooxygenase-2, Proceedings of the National Academy of Sciences, October 2015, 112(40), p12366–12371, doi=10.1073/pnas.1507307112
 
-* Information discrimination in T-cell signaling (How the T cell signaling network processes information to discriminate between self and agonist ligands |journal=Proceedings of the National Academy of Sciences, 20 October 2020, 117(42), p26020–26030, doi=10.1073/pnas.2008303117|pmid=33020303)
+* Information discrimination in T-cell signaling (How the T cell signaling network processes information to discriminate between self and agonist ligands, Proceedings of the National Academy of Sciences, 20 October 2020, 117(42), p26020–26030, doi=10.1073/pnas.2008303117)
 
 * Modeling of JNK3 cascade (Arrestin-3 scaffolding of the JNK3 cascade suggests a mechanism for signal amplification, Proceedings of the National Academy of Sciences, 15 January 2019, 116(3), p8(10–815, doi=10.1073/pnas.1819230116)
 
