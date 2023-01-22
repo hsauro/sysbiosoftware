@@ -15,7 +15,7 @@ List of systems biology modeling software
 | [libroadrunner] | High-performance software library for simulation and analysis of SBML models | multiplatform (C/C++) | Apache License | Yes |
 | [massPy] | Simulation tool | multiplatform (Python) | MIT | Yes |
 | [MCell] | GUI tool for particle-based spatial stochastic simulation with individual molecules | multiplatform | MIT and GPLv2 | Not applicable |
-| [OpenCOR] | A cross-platform modelling environment, which is aimed at organizing, editing, simulating, and analysing CellML files on Microsoft Windows|Windows, Linux and macOS. | ultiplatform (C++/Python) | GPLv3 | Uses CellML |
+| [OpenCOR] | A cross-platform modelling environment, which is aimed at organizing, editing, simulating, and analysing CellML files on Microsoft Windows|Windows, Linux and macOS. | multiplatform (C++/Python | GPLv3 | Uses CellML |
 | [PhysiBoSS] | A specialized form of the PhysiCell agent-based modeling platform that directly integrates Boolean signaling networks into cell | multiplatform (C++) | BSD-3 | Yes, but only for reactions |
 | [PhysiCell] | A agent-based modeling framework for multicellular systems biology. |multiplatform (C++)| BSD-3 | Yes, but only for reactions |
 | [PySCeS] | Python tool for modeling and analyzing SBML models | multiplatform (Python| BSD-3  | Yes |
