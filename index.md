@@ -18,7 +18,7 @@ layout: home
 | [COPASI] | GUI tool for analyzing and simulating SBML models. | multiplatform (C++) | Artistic License | Yes |
 | [Cytosim] | Spatial simulator for flexible cytoskeletal filaments and motor proteins | Mac, Linux, Cygwin (C++) | GPL3 | Not applicable |
 | [libroadrunner] | High-performance software library for simulation and analysis of SBML models | multiplatform (C/C++) | Apache License | Yes |
-| [massPy] | Simulation tool | multiplatform (Python) MIT | Yes |
+| [massPy] | Simulation tool | multiplatform (Python) | MIT | Yes |
 | [MCell] | GUI tool for particle-based spatial stochastic simulation with individual molecules | multiplatform | MIT and GPLv2 | Not applicable |
 | [OpenCOR] | A cross-platform modelling environment, which is aimed at organizing, editing, simulating, and analysing CellML files on Microsoft Windows|Windows, Linux and macOS. | ultiplatform (C++/Python) | GPLv3 | Uses CellML |
 | [PhysiBoSS] | A specialized form of the PhysiCell agent-based modeling platform that directly integrates Boolean signaling networks into cell | multiplatform (C++) | BSD-3 | Yes, but only for reactions |
