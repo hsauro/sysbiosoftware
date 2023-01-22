@@ -28,7 +28,7 @@ iBioSim is a computer-aided design (CAD) tool aimed at the modeling, analysis, a
 
 
 Capabilities
-============
+------------
 
 * Deterministic time-course simulation
 
