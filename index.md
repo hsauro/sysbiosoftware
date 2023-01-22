@@ -16,7 +16,7 @@ layout: home
 | [iBioSim] | iBioSim  is a computer-aided design (CAD) tool for the modeling, analysis, and design of genetic circuits. | multiplatform (Java/C++) | Apache | Yes |
 | [CompuCell3D] | GUI/Scripting tool | for building and simulating multicellular models. | multiplatform (C++/Python) | MIT | Yes, but only for reactions. |
 | [COPASI] | GUI tool for analyzing and simulating SBML models. | multiplatform (C++) | Artistic License | http://www.copasi.org | Yes |
-| [Cytosim] || Spatial simulator for flexible cytoskeletal filaments and motor proteins | Mac, Linux, Cygwin (C++) | GPL3 | Not applicable |
+| [Cytosim] | Spatial simulator for flexible cytoskeletal filaments and motor proteins | Mac, Linux, Cygwin (C++) | GPL3 | Not applicable |
 | [libroadrunner] | High-performance software library for simulation and analysis of SBML models | multiplatform (C/C++) | Apache License |  Yes |
 | [massPy] | Simulation tool | multiplatform (Python) MIT | Yes |
 | [MCell] | GUI tool for particle-based spatial stochastic simulation with individual molecules | multiplatform | MIT and GPLv2 | Not applicable |
