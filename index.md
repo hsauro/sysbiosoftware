@@ -21,10 +21,10 @@ layout: home
 | massPy
 | Simulation tool | multiplatform (Python) MIT | https://github.com/SBRG/MASSpy | Yes |
 | [MCell] | GUI tool for particle-based spatial stochastic simulation with individual molecules | multiplatform | MIT and GPLv2 | Not applicable |
-| OpenCOR | A cross-platform modelling environment, which is aimed at organizing, editing, simulating, and analysing CellML files on Microsoft Windows|Windows, Linux and macOS. | ultiplatform (C++/Python) | GPLv3 | https://opencor.ws/ | Uses CellML |
+| [OpenCOR] | A cross-platform modelling environment, which is aimed at organizing, editing, simulating, and analysing CellML files on Microsoft Windows|Windows, Linux and macOS. | ultiplatform (C++/Python) | GPLv3 | Uses CellML |
 | PhysiBoSS | | A specialized form of the PhysiCell agent-based modeling platform that directly integrates Boolean signaling networks into cell | multiplatform (C++) | BSD-3 | https://github.com/PhysiBoSS/PhysiBoSS | Yes, but only for reactions |
-| PhysiCell | A agent-based modeling framework for multicellular systems biology.
-|multiplatform (C++)| BSD-3 | http://physicell.org | Yes, but only for reactions |
+| [PhysiCell] | A agent-based modeling framework for multicellular systems biology.
+|multiplatform (C++)| BSD-3 | Yes, but only for reactions |
 | PySCeS | Python tool for modeling and analyzing SBML models | multiplatform (Python| BSD-3 | https://pysces.sourceforge.net/ | Yes |
 | pySB | Python-based platform with specialization in rule-based models. | multiplatform (Python)| BSD-3 | https://pysb.org/ | Partial |
 | ReaDDy | Particle-based spatial simulator with intermolecular potentials | Linux and Mac | Custom | https://readdy.github.io/index.html |Not applicable |
@@ -63,6 +63,8 @@ To get started with creating a site, just click "[use this template]"!
 [COPASI]: https://github.com/sys-bio/roadrunner
 [STEPS]: https://steps.sourceforge.net
 [MCell]: https://mcell.org/index.html
+[PhysiCell]: http://physicell.org
+[OpenCor]: https://opencor.ws/ 
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
