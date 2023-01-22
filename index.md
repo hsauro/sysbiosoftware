@@ -34,7 +34,7 @@ layout: home
 | [STEPS] | Stochastic reaction-diffusion and membrane potential solver on distributed meshes | multiplatform (C++/Python) | GPLv2 | 
 | [Tellurium (software)] | Simulation environment that packages multiple libraries into one platform. | multiplatform (Python) | Apache License | Yes |
 | [URDME] | Stochastic reaction-diffusion simulation on unstructured meshes | MatLab on Mac, Linux | GPL3 | Not applicable |
-| VCell | Comprehensive modeling platform for non-spatial, spatial, deterministic and stochastic simulations, including both reaction networks and reaction rules. | multiplatform (Java) | MIT | Yes |
+| [VCell] | Comprehensive modeling platform for non-spatial, spatial, deterministic and stochastic simulations, including both reaction networks and reaction rules. | multiplatform (Java) | MIT | Yes |
 
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 
