@@ -1,5 +1,6 @@
 ---
 title: pysb
+layout: home
 ---
 
 name                   = PySB
