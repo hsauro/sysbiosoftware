@@ -1,7 +1,5 @@
-
 ---
-layout: home
-title: iBioSim
+title: iBiosim
 ---
 
-Test
+Test 1
