@@ -23,7 +23,7 @@ layout: home
 | [OpenCOR] | A cross-platform modelling environment, which is aimed at organizing, editing, simulating, and analysing CellML files on Microsoft Windows|Windows, Linux and macOS. | ultiplatform (C++/Python) | GPLv3 | Uses CellML |
 | [PhysiBoSS] | A specialized form of the PhysiCell agent-based modeling platform that directly integrates Boolean signaling networks into cell | multiplatform (C++) | BSD-3 | Yes, but only for reactions |
 | [PhysiCell] | A agent-based modeling framework for multicellular systems biology. |multiplatform (C++)| BSD-3 | Yes, but only for reactions |
-| [PySCeS] | Python tool for modeling and analyzing SBML models | multiplatform (Python| BSD-3 | https://pysces.sourceforge.net/ | Yes |
+| [PySCeS] | Python tool for modeling and analyzing SBML models | multiplatform (Python| BSD-3  | Yes |
 | [pySB] | Python-based platform with specialization in rule-based models. | multiplatform (Python)| BSD-3 | Partial |
 | [ReaDDy] | Particle-based spatial simulator with intermolecular potentials | Linux and Mac | Custom  | Not applicable |
 | [SBSCL] | Java library with efficient and exhaustive support for SBML | multiplatform (Java) | LGPL | https://draeger-lab.github.io/SBSCL/ | Yes
@@ -34,8 +34,7 @@ layout: home
 | [STEPS] | Stochastic reaction-diffusion and membrane potential solver on distributed meshes | multiplatform (C++/Python) | GPLv2 | 
 | [Tellurium (software)] | Simulation environment that packages multiple libraries into one platform. | multiplatform (Python) | Apache License | Yes |
 | [URDME] | Stochastic reaction-diffusion simulation on unstructured meshes | MatLab on Mac, Linux | GPL3 | Not applicable |
-| VCell | Comprehensive modeling platform for non-spatial, spatial, deterministic and stochastic simulations, including both reaction networks and reaction rules. 
-| multiplatform (Java) | MIT | Yes |
+| VCell | Comprehensive modeling platform for non-spatial, spatial, deterministic and stochastic simulations, including both reaction networks and reaction rules. | multiplatform (Java) | MIT | Yes |
 
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 
@@ -65,7 +64,7 @@ To get started with creating a site, just click "[use this template]"!
 [OpenCor]: https://opencor.ws/
 [URDME]: http://urdme.github.io/urdme/
 [SBSCL]: https://sbw.sourceforge.net/
-[PySCeS]: https://pysb.org/
+[PySCeS]: https://pysces.sourceforge.net/
 [Smoldyn]: https://www.smoldyn.org/
 [SpringSaLaD]: https://vcell.org/ssalad 
 [STEPS]: http://google.com
