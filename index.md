@@ -19,23 +19,14 @@ layout: home
 | GUI tool<ref>{{cite journal |last1=Bergmann |first1=Frank T. |last2=Hoops |first2=Stefan |last3=Klahn |first3=Brian |last4=Kummer |first4=Ursula |last5=Mendes |first5=Pedro |last6=Pahle |first6=Jürgen |last7=Sahle |first7=Sven |title=COPASI and its applications in biotechnology |journal=Journal of Biotechnology |date=November 2017 |volume=261 |pages=215–220 |doi=10.1016/j.jbiotec.2017.06.1200|pmid=28655634 |pmc=5623632 }}</ref><ref>{{cite journal |last1=Yeoh |first1=Jing Wui |last2=Ng |first2=Kai Boon Ivan |last3=Teh |first3=Ai Ying |last4=Zhang |first4=JingYun |last5=Chee |first5=Wai Kit David |last6=Poh |first6=Chueh Loo |title=An Automated Biomodel Selection System (BMSS) for Gene Circuit Designs |journal=ACS Synthetic Biology |date=19 July 2019 |volume=8 |issue=7 |pages=1484–1497 |doi=10.1021/acssynbio.8b00523|pmid=31035759 |s2cid=140321282 }}</ref> for analyzing and simulating SBML models.
 ||multiplatform (C++)||Artistic License||[http://www.copasi.org]|| Yes
 |-
-| Cytosim || Spatial simulator for flexible cytoskeletal filaments and motor proteins<ref>{{cite journal |last1=Nedelec |first1=Francois |last2=Foethke |first2=Dietrich |title=Collective Langevin dynamics of flexible cytoskeletal fibers |journal=New Journal of Physics |volume=9 |date=2007 |issue=11 |pages=427|doi=10.1088/1367-2630/9/11/427 |arxiv=0903.5178 |bibcode=2007NJPh....9..427N |s2cid=16924457 }}</ref> || Mac, Linux, Cygwin (C++) || GPL3 || [http://cytosim.org]|| Not applicable
-|-
+| Cytosim || Spatial simulator for flexible cytoskeletal filaments and motor proteins | Mac, Linux, Cygwin (C++) | GPL3 | http://cytosim.org | Not applicable |
 | libroadrunner | High-performance software library for simulation and analysis of SBML models | multiplatform (C/C++) | Apache License | https://github.com/sys-bio/roadrunner | Yes |
 | massPy
-| Simulation tool <ref>{{cite journal |last1=Haiman |first1=Zachary B. |last2=Zielinski |first2=Daniel C. |last3=Koike |first3=Yuko |last4=Yurkovich |first4=James T. |last5=Palsson |first5=Bernhard O. |title=MASSpy: Building, simulating, and visualizing dynamic biological models in Python using mass action kinetics |journal=PLOS Computational Biology |date=28 January 2021 |volume=17 |issue=1 |pages=e1008208 |doi=10.1371/journal.pcbi.1008208|pmid=33507922 |pmc=7872247 |bibcode=2021PLSCB..17E8208H }}</ref><ref>{{cite journal |last1=Foster |first1=Charles J |last2=Wang |first2=Lin |last3=Dinh |first3=Hoang V |last4=Suthers |first4=Patrick F |last5=Maranas |first5=Costas D |title=Building kinetic models for metabolic engineering |journal=Current Opinion in Biotechnology |date=February 2021 |volume=67 |pages=35–41 |doi=10.1016/j.copbio.2020.11.010|pmid=33360621 |s2cid=229690954 }}</ref>  that can work with COBRApy<ref>{{cite journal |last1=Ebrahim |first1=Ali |last2=Lerman |first2=Joshua A |last3=Palsson |first3=Bernhard O |last4=Hyduke |first4=Daniel R |title=COBRApy: COnstraints-Based Reconstruction and Analysis for Python |journal=BMC Systems Biology |date=December 2013 |volume=7 |issue=1 |pages=74 |doi=10.1186/1752-0509-7-74|pmid=23927696 |pmc=3751080 }}</ref>
-||multiplatform (Python)||[[MIT]]||[https://github.com/SBRG/MASSpy]|| Yes
-|-
+| Simulation tool | multiplatform (Python) MIT | https://github.com/SBRG/MASSpy | Yes |
 | MCell | GUI tool for particle-based spatial stochastic simulation with individual molecules | multiplatform | MIT and GPLv2 | https://mcell.org/index.html | Not applicable |
-|[https://opencor.ws/ OpenCOR]
-|A cross-platform modelling environment, which is aimed at organizing, editing, simulating, and analysing [[CellML]] files on [[Microsoft Windows|Windows]], [[Linux]] and [[macOS]].
-|multiplatform (C++/Python)
-|[[GPL 3|GPLv3]]
-|[https://opencor.ws/]
-|Uses [[CellML]]
-|-
+| OpenCOR | A cross-platform modelling environment, which is aimed at organizing, editing, simulating, and analysing CellML files on Microsoft Windows|Windows, Linux and macOS. | ultiplatform (C++/Python) | GPLv3 | https://opencor.ws/ | Uses CellML |
 | PhysiBoSS
-| A specialized form of the PhysiCell agent-based modeling platform that directly integrates Boolean signaling networks into cell | multiplatform (C++)||[[BSD-3]]||[https://github.com/PhysiBoSS/PhysiBoSS]|| Yes, but only for reactions
+| A specialized form of the PhysiCell agent-based modeling platform that directly integrates Boolean signaling networks into cell | multiplatform (C++) | BSD-3 |[https://github.com/PhysiBoSS/PhysiBoSS]|| Yes, but only for reactions
 |-
 | PhysiCell | A agent-based modeling framework for multicellular systems biology.
 ||multiplatform (C++)||[[BSD-3]]||[http://physicell.org]|| Yes, but only for reactions
