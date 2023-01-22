@@ -14,11 +14,7 @@ layout: home
 | Name         | Description | OS    | License | Site | SBML Support |
 |:-------------|:-----------------------|:------|:--------|:-----|:-------------|
 | iBioSim | iBioSim  is a computer-aided design (CAD) tool for the modeling, analysis, and design of genetic circuits. | multiplatform (Java/C++) | Apache | https://github.com/MyersResearchGroup/iBioSim | Yes |
-|-
-| CompuCell3D
-| GUI/Scripting tool<ref>{{cite journal |last1=Swat |first1=Maciej H. |last2=Thomas |first2=Gilberto L. |last3=Belmonte |first3=Julio M. |last4=Shirinifard |first4=Abbas |last5=Hmeljak |first5=Dimitrij |last6=Glazier |first6=James A. |title=Multi-Scale Modeling of Tissues Using CompuCell3D |journal=Methods in Cell Biology |date=2012 |volume=110 |pages=325–366 |doi=10.1016/B978-0-12-388403-9.00013-8|pmid=22482955 |pmc=3612985 |isbn=9780123884039 }}</ref> for building and simulating multicellular models.
-||multiplatform (C++/Python)||MIT||[https://compucell3d.org/]|| Yes, but only for reactions.
-|-
+| CompuCell3D | GUI/Scripting tool | for building and simulating multicellular models. | multiplatform (C++/Python) | MIT | https://compucell3d.org | Yes, but only for reactions. |
 | COPASI
 | GUI tool<ref>{{cite journal |last1=Bergmann |first1=Frank T. |last2=Hoops |first2=Stefan |last3=Klahn |first3=Brian |last4=Kummer |first4=Ursula |last5=Mendes |first5=Pedro |last6=Pahle |first6=Jürgen |last7=Sahle |first7=Sven |title=COPASI and its applications in biotechnology |journal=Journal of Biotechnology |date=November 2017 |volume=261 |pages=215–220 |doi=10.1016/j.jbiotec.2017.06.1200|pmid=28655634 |pmc=5623632 }}</ref><ref>{{cite journal |last1=Yeoh |first1=Jing Wui |last2=Ng |first2=Kai Boon Ivan |last3=Teh |first3=Ai Ying |last4=Zhang |first4=JingYun |last5=Chee |first5=Wai Kit David |last6=Poh |first6=Chueh Loo |title=An Automated Biomodel Selection System (BMSS) for Gene Circuit Designs |journal=ACS Synthetic Biology |date=19 July 2019 |volume=8 |issue=7 |pages=1484–1497 |doi=10.1021/acssynbio.8b00523|pmid=31035759 |s2cid=140321282 }}</ref> for analyzing and simulating SBML models.
 ||multiplatform (C++)||Artistic License||[http://www.copasi.org]|| Yes
