@@ -12,4 +12,3 @@ programming language   = [[Java]],[[C++]]
 operating system       = [[Linux]], [[macOS]] and [[Microsoft Windows]]
 license                = [[Apache License]]
 website                = https://github.com/MyersResearchGroup/iBioSim
-}}
