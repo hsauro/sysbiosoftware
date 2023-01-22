@@ -22,18 +22,19 @@ license                = BSD License
 website                = [https://pysb.org/](https://pysb.org/)
 
 PySB
-====
+----
 
 PySB.Programming biological models in Python using PySB, (Molecular Systems Biology, January 2013, 9(1), p646, doi=10.1038/msb.2013.1) is a Python-based open-source simulator for cellular systems developed by Carlos Lopez. The primary capability of pySB than makes it stand out from other similar simulators is that it supports rule-based modeling (Rule‐based modeling: a computational approach for studying biomolecular site dynamics in cell signaling systems, WIREs Systems Biology and Medicine,January 2014, 6(1), p13–36, doi=10.1002/wsbm.1245). The software runs on all major platforms, Windows, Mac OS, and Linux. PySB is also discussed at Multi-state modeling of biomolecules.
 
  Capabilities
+ ------------
  
 * Can be used to describe rule-based models of complex biochemical pathways, particularly signaling pathways. 
 * Can be used to create model libraries based on macros to reuse.
 * Uses standard python sci-py numerical libraries for carrying out simulations.
 
 Applications of pySB
-====================
+--------------------
 
 pySB has been used in a variety of research projects. The following lists a small number of those studies (out of a total of 230 mentions in the scientific literature (as of Oct 2022).
 
@@ -50,7 +51,7 @@ pySB has been used in a variety of research projects. The following lists a smal
 These have all been impactful studies (Google Scholar) and indicate that pySB is being used in a variety of important research areas.
 
 Notability
-==========
+----------
 
 There are a number of distinguishing features of pySB that make it standout from other similar cellular modeling platforms:
 
@@ -69,7 +70,7 @@ A number of reviews and commentaries have been written that discuss pySB:
 * Chicklet et al (Rule‐based modeling: a computational approach for studying biomolecular site dynamics in cell signaling systems, WIREs Systems Biology and Medicine, January 2014, 6(1), p13–36, doi=10.1002/wsbm.1245) discuss at length a variety of rule-based modeling platforms but particularly pySB.
 
 SBML Support
-============
+------------
 
 pySB is able to export SBML in flattened form.. That is, the rule-based model is converted into explicit reactions. This means that the rule-based formalism is not preserved. 
 
