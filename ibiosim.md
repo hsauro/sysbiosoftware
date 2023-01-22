@@ -22,7 +22,7 @@ license                = Apache License
 website                = [https://github.com/MyersResearchGroup/iBioSim](https://github.com/MyersResearchGroup/iBioSim)
 
 iBioSim
-=======
+-------
 
 iBioSim is a computer-aided design (CAD) tool aimed at the modeling, analysis, and design of genetic circuits. While iBioSim primarily targets models of genetic circuits, models representing metabolic networks, cell-signaling pathways, and other biological and chemical systems can also be analyzed. The software runs on all major platforms, Windows, Mac OS, and Linux.
 
@@ -43,7 +43,7 @@ Capabilities
 * Import and export of standard Synthetic Biology Open Language (SBOL)
 
 Applications
-============
+------------
 
 The tool has been used in a number of research projects:
 
@@ -52,7 +52,7 @@ The tool has been used in a number of research projects:
 * Part of a general workflow for the design, implementation and testing of synthetic genetic circuits (Toward Full-Stack In Silico Synthetic Biology: Integrating Model Specification, Simulation, Verification, and Biological Compilation, ACS Synthetic Biology, 20 August 2021, 10 (8), p1931–1945 
 
 Notability
-==========
+----------
 
 iBioSim is one of the few tools that focuses on the simulation and design of genetic regulatory circuits (Genetic Circuit Design Principles,Handbook of Cell Biosensors, 2022, p339–381, doi=10.1007/978-3-030-23217-7_171) As such, the tool is more actively used in the synthetic biology community. It uses a visual GUI environment that allows users to `draw' genetic networks on screen.
 
