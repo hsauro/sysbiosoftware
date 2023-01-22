@@ -1,5 +1,5 @@
 ---
-title: pysb
+title: pySB
 layout: home
 ---
 
