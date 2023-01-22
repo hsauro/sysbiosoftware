@@ -13,7 +13,7 @@ layout: home
 
 | Name         | Description            | OS    | License | Site | SBML Support |
 |:-------------|:-----------------------|:------|:--------|:-----|:-------------|
-| iBioSim | iBioSim  is a computer-aided design (CAD) tool for the modeling, analysis, and design of genetic circuits. | multiplatform (Java/C++) | Apache | https://github.com/MyersResearchGroup/iBioSim | Yes |
+| [iBioSim] | iBioSim  is a computer-aided design (CAD) tool for the modeling, analysis, and design of genetic circuits. | multiplatform (Java/C++) | Apache | Yes |
 | CompuCell3D | GUI/Scripting tool | for building and simulating multicellular models. | multiplatform (C++/Python) | MIT | https://compucell3d.org | Yes, but only for reactions. |
 | COPASI | GUI tool for analyzing and simulating SBML models. | multiplatform (C++) | Artistic License | http://www.copasi.org | Yes |
 | Cytosim || Spatial simulator for flexible cytoskeletal filaments and motor proteins | Mac, Linux, Cygwin (C++) | GPL3 | http://cytosim.org | Not applicable |
@@ -59,6 +59,7 @@ To get started with creating a site, just click "[use this template]"!
 
 [^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
 
+[iBioSim]: https://github.com/MyersResearchGroup/iBioSim
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
 [README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
