@@ -26,8 +26,8 @@ PySB
 
 PySB.Programming biological models in Python using PySB, (Molecular Systems Biology, January 2013, 9(1), p646, doi=10.1038/msb.2013.1) is a Python-based open-source simulator for cellular systems developed by Carlos Lopez. The primary capability of pySB than makes it stand out from other similar simulators is that it supports rule-based modeling (Rule‐based modeling: a computational approach for studying biomolecular site dynamics in cell signaling systems, WIREs Systems Biology and Medicine,January 2014, 6(1), p13–36, doi=10.1002/wsbm.1245). The software runs on all major platforms, Windows, Mac OS, and Linux. PySB is also discussed at Multi-state modeling of biomolecules.
 
- oiyoiyoiyoio
- ------------
+abc
+---
  
 * Can be used to describe rule-based models of complex biochemical pathways, particularly signaling pathways. 
 * Can be used to create model libraries based on macros to reuse.
