@@ -1,9 +1,5 @@
----
-title: Home
-layout: home
----
 
-## [](#header-2)List of systems biology modeling software
+List of systems biology modeling software
 
 
 | Name         | Description            | OS    | License | SBML Support |
@@ -73,10 +69,3 @@ To get started with creating a site, just click "[use this template]"!
 [SBW]: https://sbw.sourceforge.net/
 [ReaDDy]:https://readdy.github.io/index.html
 [Spatiocyte]: https://spatiocyte.org
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
