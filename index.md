@@ -57,7 +57,7 @@ To get started with creating a site, just click "[use this template]"!
 
 [iBioSim]: https://github.com/MyersResearchGroup/iBioSim
 [VCell]: https://vcell.org
-[COPASI]: https://github.com/sys-bio/roadrunner
+[COPASI]: https://copasi.org
 [STEPS]: https://steps.sourceforge.net
 [MCell]: https://mcell.org/index.html
 [PhysiCell]: http://physicell.org
