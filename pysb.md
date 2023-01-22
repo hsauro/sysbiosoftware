@@ -1,5 +1,5 @@
 ---
-title: pySB
+title: pysb
 ---
 
 name                   = PySB
