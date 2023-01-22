@@ -19,4 +19,4 @@ platform               = Python
 
 license                = BSD License
 
-website                = [https://pysb.org/]
+website                = [https://pysb.org/](https://pysb.org/)
