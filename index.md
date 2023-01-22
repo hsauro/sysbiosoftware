@@ -8,8 +8,6 @@ List of systems biology modeling software
 [Wikipedia Page](https://en.wikipedia.org/wiki/List_of_systems_biology_modeling_software).
 
 
-cjcalcj aljad aldja ldjaldjadakdhakdh aakjd akdha kdha dkahd akdha kdhak dakdha kdhak dahk dahkdj adkahd ak
-
 
 | Name         | Description            | OS    | License | SBML Support |
 |:-------------|:-----------------------|:------|:--------|:-------------|
