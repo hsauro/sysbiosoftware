@@ -1,13 +1,9 @@
-{{AFC submission|d|adv|u=Rhodydog|ns=118|decliner=Akevsharma|declinets=20230120034327|ts=20221025164832}} <!-- Do not remove this line! -->
-{{AFC submission|d|nn|u=Rhodydog|ns=118|demo=|decliner=Stuartyeates|declinets=20221025083315|small=yes|ts=20221023193558}} <!-- Do not remove this line! -->
-
-{{AFC comment|1=We in in-depth coverage in independent secondary sources. All there are at the moment is a passing mention in a secondary source and a bunch of primary sources. [[User:Stuartyeates|Stuartyeates]] ([[User talk:Stuartyeates|talk]]) 08:33, 25 October 2022 (UTC)}}
-
-----
-
-{{Short description|Widely used open source software in systems biology}}
-{{Draft topics|stem}}
-{{AfC topic|stem}}
+---
+layout: default
+title: pySB
+parent: index
+nav_order: 2
+---
 
 {{Infobox software
 | name                   = PySB
