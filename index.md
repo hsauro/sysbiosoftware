@@ -11,7 +11,7 @@ layout: home
 | ok           | good `zoute` drop | yumm  |
 
 
-| Name         | Description | OS    | License | Site | SBML Support |
+| Name         | Description            | OS    | License | Site | SBML Support |
 |:-------------|:-----------------------|:------|:--------|:-----|:-------------|
 | iBioSim | iBioSim  is a computer-aided design (CAD) tool for the modeling, analysis, and design of genetic circuits. | multiplatform (Java/C++) | Apache | https://github.com/MyersResearchGroup/iBioSim | Yes |
 | CompuCell3D | GUI/Scripting tool | for building and simulating multicellular models. | multiplatform (C++/Python) | MIT | https://compucell3d.org | Yes, but only for reactions. |
