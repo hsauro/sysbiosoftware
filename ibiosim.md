@@ -1,12 +1,3 @@
-{{AFC submission|d|v|u=Rhodydog|ns=118|demo=|decliner=Mattdaviesfsic|declinets=20230110061048|ts=20221023234954}} <!-- Do not remove this line! -->
-
-{{AFC comment|1=No lead section [[User:Mattdaviesfsic|Mattdaviesfsic]] ([[User talk:Mattdaviesfsic|talk]]) 06:10, 10 January 2023 (UTC)}}
-
-----
-
-{{Short description|Widely used open source software in systems biology}}
-{{Draft topics|biology|software}}
-{{AfC topic|stem}}
 
 {{Infobox software
 | name                   = iBioSim
